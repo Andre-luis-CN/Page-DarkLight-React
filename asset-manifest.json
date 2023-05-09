@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Page-DarkLight-React/static/css/main.4585d472.css",
+    "main.js": "/Page-DarkLight-React/static/js/main.7f60a647.js",
+    "static/media/banner.png": "/Page-DarkLight-React/static/media/banner.24792d13f8ae0f0c8e94.png",
+    "static/media/dribble.png": "/Page-DarkLight-React/static/media/dribble.5bd157081aafd8bf91df.png",
+    "static/media/moon.png": "/Page-DarkLight-React/static/media/moon.aa0519968d404fb6f25a.png",
+    "static/media/behance.png": "/Page-DarkLight-React/static/media/behance.17520b5be0e2ef198d5a.png",
+    "static/media/sun.png": "/Page-DarkLight-React/static/media/sun.6d48da504f4816188c8d.png",
+    "static/media/facebook.png": "/Page-DarkLight-React/static/media/facebook.01a470d813915c298403.png",
+    "static/media/twitter.png": "/Page-DarkLight-React/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/google-plus.png": "/Page-DarkLight-React/static/media/google-plus.fa256cf5db1bec2844c5.png",
+    "static/media/linkedin.png": "/Page-DarkLight-React/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/Page-DarkLight-React/index.html",
+    "main.4585d472.css.map": "/Page-DarkLight-React/static/css/main.4585d472.css.map",
+    "main.7f60a647.js.map": "/Page-DarkLight-React/static/js/main.7f60a647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4585d472.css",
+    "static/js/main.7f60a647.js"
+  ]
+}
