@@ -1,0 +1,64 @@
+.tema-claro-expe{
+    background: #f6f8fc;
+}
+
+.tema-escuro-expe{
+    background: #393838;
+}
+
+.container-experiencia{
+    padding: 80px 0;
+}
+
+#title-expe {
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 30px;
+
+}
+
+.title-expe-claro {
+    color: #32333c;
+}
+
+.title-expe-escuro {
+    color: #cccccc;
+}
+
+#text-expe {
+    text-align: center;
+    margin: 40px 150px;
+
+}
+
+.text-expe-escuro {
+    color: #cccccc;
+}
+
+.text-expe-claro {
+    color: #8a8fa3;
+}
+
+#title-expe::after {
+    content: '';
+    display: block;
+    width: 100px;
+    height: 4px;
+    background: #feb633;
+    margin: 12px auto;
+}
+
+.container-cards {
+    display: flex;
+    margin: 0 20px;
+}
+
+@media (max-width: 768px) {
+    #text-expe {
+        margin: 40px 40px;
+    }
+
+    .container-cards {
+        flex-direction: column;
+    }
+}

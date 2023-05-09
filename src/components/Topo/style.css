@@ -1,0 +1,49 @@
+.header-claro {
+    background: #fff;
+}
+
+.header-escuro {
+    background: #252525;
+}
+
+.container-topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 30px;
+}
+
+.img-dark-light {
+    width: 30px;
+    padding: 5px;
+}
+
+#btn-topo {
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.btn-topo-escuro {
+    border: 1px solid #fff;
+    background: #252525;
+}
+
+.btn-topo-claro {
+    border: 1px solid #252525;
+    background: #fff;
+
+}
+
+@media (max-width: 425px) {
+    .img-dark-light {
+        width: 20px;
+    }
+
+    .img-topo-logo {
+        width: 30px;
+    }
+    
+}
